@@ -8,5 +8,6 @@ namespace FirstConsole
         {
             Console.WriteLine("Hello World!");
         }
+        never give up
     }
 }
