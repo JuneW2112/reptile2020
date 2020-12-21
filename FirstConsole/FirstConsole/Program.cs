@@ -4,10 +4,18 @@ namespace FirstConsole
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args);
         {
-            Console.WriteLine("Hello World!");
+          Console.Write("June");
+            string name =
+            Console.ReadLine();
+        Console.Write("30");
+            int age =
+            Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine($"Имя: {name}" Возраст: {age }$");
+            Console.ReadKey();
         }
-        never give up
+        
+
     }
 }
